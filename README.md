@@ -8,8 +8,8 @@ A software developer passionate about mobile and user interface design.
 
 ## Technologies
 
-- Full-Stack Development with HTML, CSS, Javascript, ReactJs, PHP, Node.Js.
-- Mobile Development with React Native and Flutter.
+- Back-End Development with Python, Django, MySQL, HTMl, CSS.
+- Android Development with Kotlin.
 - User Interface Design.
 - Web Design with Elementor.
 
