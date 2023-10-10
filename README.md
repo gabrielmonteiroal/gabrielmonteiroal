@@ -8,8 +8,8 @@ A software developer passionate about mobile and user interface design.
 
 ## Technologies
 
-- Back-End Development with Python, Django, MySQL, HTMl, CSS.
-- Android Development with Kotlin.
+- Back-End Development with Javascript, Node, MySQL, HTMl, CSS.
+- Mobile Development with React Native.
 - User Interface Design.
 - Web Design with Elementor.
 
