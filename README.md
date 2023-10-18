@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>Hey there! I’m Gabriel Monteiro, 26 years old, currently living in Brazil.<br><br>I am a graduate student in Analysis and Systems Development at University Veiga de Almeida (UVA, Universidade Veiga de Almeida) in Rio, Rio de Janeiro.<br><br>A software developer passionate about mobile and user interface design.
+<br>Hey there! I’m Gabriel Monteiro, 26 years old, currently living in Brazil.<br><br>I am a graduate student in Analysis and Systems Development at University Veiga de Almeida (UVA, Universidade Veiga de Almeida) in Rio, Rio de Janeiro.<br><br>A software developer passionate about mobile and user interface design.
 
 
 ## 🌐 Socials:
